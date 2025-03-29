@@ -3,7 +3,7 @@
 ![WesleyGithub](https://img.shields.io/badge/Github-Wesley-000?style=for-the-badge) 
 ![emailaddress](https://custom-icon-badges.demolab.com/badge/gwleibsdl%40qq.com-34A853?logo=mail&logoColor=fff&style=flat-square)
 
-- 🌱 I'm currently still a high school Student(Pre-college student)
+- 🌱 I'm currently a college student
 - 🤔 Enjoy programming
 - 🗺️ Live in Foshan,China
 - 😄 Pronouns: `StrongPerseverance` `Young&Ambitious` `Conscientious&Studious`
@@ -28,6 +28,6 @@
 ---
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-0808&show_icons=true&theme=algolia&hide_border=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-0808&show_icons=true&theme=algolia&hide_border=true)
 ![GithubTopLangs](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=wesley-0808&&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ---
