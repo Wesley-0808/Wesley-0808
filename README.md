@@ -28,6 +28,6 @@
 ---
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-0808&show_icons=true&theme=algolia&hide_border=true&hide=stars)
+![GitHub stats](https://github-readme-stats-gamma-beryl-93.vercel.app/api?username=wesley-0808&show_icons=true&theme=algolia&hide_border=true&hide=stars)
 ![GithubTopLangs](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=wesley-0808&&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ---
