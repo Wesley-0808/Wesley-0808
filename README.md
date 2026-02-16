@@ -29,5 +29,5 @@
 
 
 ![GitHub stats](https://github-readme-stats-gamma-beryl-93.vercel.app/api?username=wesley-0808&show_icons=true&theme=algolia&hide_border=true&hide=stars&include_all_commits=true&count_private=true)
-![GithubTopLangs](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=wesley-0808&&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&exclude_lang=dart)
+![GithubTopLangs]([https://github-readme-stats-one-bice.vercel.app](https://github-readme-stats-gamma-beryl-93.vercel.app)/api/top-langs?username=wesley-0808&&layout=compact&theme=tokyonight&langs_count=6&hide_border=true)
 ---
